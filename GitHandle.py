@@ -19,7 +19,7 @@ class Git(object):
         """
         :return:
         """
-        if isinstance(raw_msg, str):  # 首先判断变量是否为字符串
+        if isinstance(raw_msg, str):  # if is str
             try:
                 json.loads(raw_msg, encoding='utf-8')
             except ValueError:
