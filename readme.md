@@ -1,7 +1,7 @@
 # GitApiHandle
 ## backgroud
 ```
-The project encapsulates the GitHub V3 restful API to operate GitHub with code to improve efficiency and ease of use.
+The project use  the GitHub V3 restful API to operate GitHub with code to improve efficiency and ease of use.
 ```
 ## Language and Platform
 - python3.6
